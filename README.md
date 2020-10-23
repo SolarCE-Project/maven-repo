@@ -1,2 +1,2 @@
-# taiyo-lib-repo
-太陽建機レンタル　OCI 共通機能ライブラリ
+# maven-repo
+太陽建機レンタル　OCI MAVEN用 共通機能ライブラリ
