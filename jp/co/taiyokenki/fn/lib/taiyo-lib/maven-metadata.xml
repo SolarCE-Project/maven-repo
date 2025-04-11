@@ -3,11 +3,12 @@
   <groupId>jp.co.taiyokenki.fn.lib</groupId>
   <artifactId>taiyo-lib</artifactId>
   <versioning>
-    <release>0.0.5</release>
+    <release>0.0.6</release>
     <versions>
       <version>0.0.4</version>
       <version>0.0.5</version>
+      <version>0.0.6</version>
     </versions>
-    <lastUpdated>20250411081331</lastUpdated>
+    <lastUpdated>20250411082154</lastUpdated>
   </versioning>
 </metadata>
